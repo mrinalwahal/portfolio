@@ -109,7 +109,7 @@ export default {
                 },
                 {
                     title: 'Resume',
-                    to: 'https://rzp.io/l/wahal',
+                    to: '/Resume.pdf',
                     icon: 'dollar-sign',
                 },
             ]
