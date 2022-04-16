@@ -1,5 +1,5 @@
 ---
 title: Projects
-category: guide
+category: Info
 position: 5
 ---
