@@ -1,22 +1,25 @@
 ---
-title: Wahal, Mrinal
+title: It's just "Wahal"
 menuTitle: Profile
 description: Golang, GraphQL & NuxtJS
 subtitle: Artificial General Intelligence. Upanishads. Artificial Consciousness & Developer Experience (DX) Engineering.
 badge: Remote | Delhi, IN
 fullscreen: false
 position: 1
-category: ''
 stack:
   - Golang
   - REST
   - GraphQL (Hasura/Apollo)
   - NuxtJS
 familarity:
+  - Microservices
+  - CI/CD
+  - Containerization
   - Javascript
 tools:
   - Docker
   - Git
+  - GitHub Actions
 interests:
   - Deep Learning
   - Morality and Ethics for AI
@@ -61,6 +64,10 @@ Your documentation has been created successfully!
 ## Books Which Shaped Me
 
 <list :items="books"></list>
+
+## Education
+
+Bachelors in Technology, Computer Science & Engineering
 
 <!-- <p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
  -->

@@ -1,6 +1,6 @@
 ---
 title: Oversight
 badge: research.oversight.in
-category: Founding Experience
+category: Projects
 position: 5
 ---

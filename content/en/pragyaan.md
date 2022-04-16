@@ -1,6 +1,6 @@
 ---
 title: Pragyaan
 badge: Pragyaan.co
-category: Founding Experience
+category: Projects
 position: 5
 ---

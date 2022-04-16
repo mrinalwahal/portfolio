@@ -1,11 +1,13 @@
 ---
 title: Lectures/Talks
+menuTitle: Talks
 subtitle: To invite me for a talk/lecture, just drop me an email.
 category: Info
 position: 4
 topics:
-    - Ethical Hacking
+    - Entrepreneurship
     - Neural Networks
+    - Ethical Hacking
     - Machine Learning
     - Web Development
 ---
