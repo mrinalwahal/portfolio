@@ -1,7 +1,7 @@
 ---
 title: Work Experience
-menuTitle: Professional
-description: Work experience. Backend Engineer. Fullstack Engineer. Golang Engineer. Golang, GraphQL & NuxtJS.
+menuTitle: Jobs
+description: Work experience. Jobs. Backend Engineer. Fullstack Engineer. Golang Engineer. Golang, GraphQL & NuxtJS.
 subtitle: These are my professional engagements that I've pursued full-time.
 category: work
 position: 2
@@ -26,12 +26,17 @@ instantpost-stack:
     - OpenSSH
 ---
 
+<alert type="success">
+3+ years of experience.
+</alert>
+
 ## Nhost.io, Stockholm
 
 - Second core team member.
 - Designed and maintained the Nhost CLI from scratch. Source code is open-source and [available here](https://github.com/nhost/cli). This repository can be used to judge my Golang skills.
-- Contributed to all of Nhost stack, including front-end SDKs, auth and storage.
-- Handled design, development, testing, documentation and deployment.
+- Contributed to all of Nhost stack, in the early stages, including front-end SDKs, authentication and storage.
+- Wrote an experimental Golang library for exposing local environment using HTTP tunnels to the public internet to increase testing time, and serve as an alternative to preview environments.
+- Handled design, development, testing, documentation and deployment of the CLI.
 
 <alert type="info">
 

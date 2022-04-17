@@ -1,7 +1,7 @@
 ---
-title: Call Me "Wahal"
+title: Wahal
 menuTitle: Profile
-description: Engineering & Philosophy. Golang, GraphQL & NuxtJS
+description: Engineering & Philosophy. Golang, GraphQL (Hasura/Apollo) & NuxtJS
 subtitle: Artificial General Intelligence. Upanishads. Artificial Consciousness & Developer Experience (DX) Engineering.
 badge: say "vaa-hul"
 fullscreen: false
