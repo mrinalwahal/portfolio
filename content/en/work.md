@@ -44,6 +44,16 @@ From May 2021, to February 2022, I worked with [Nhost](https://nhost.io/), as a 
 
 </alert>
 
+### Culture
+
+- Permanently remote team. Globally distributed.
+- Small team of 10 people. Including design and marketing. Rest engineers.
+- Directly reporting to CEO and CTO.
+- 2 week scrums.
+- Weekly standup call every Monday.
+- Tickets on GitHub Issues and JIRA.
+- Communication and coordination over Discord. 
+- Directly solving users' issues over Discord channels.
 ### Stack
 
 <list :items="nhost-stack"></list>
@@ -65,6 +75,17 @@ You can read my entire story of Oversight's inception and death [over here](/ove
 We ran Oversight for 1.5 years (until Q1 of 2021). Until we fell short on distribution and sales, and decided to quit. We shut down Oversight in March 2021.
 
 </alert>
+
+### Culture
+
+- Permanently remote team. Nationally distributed in India.
+- Small team of 10 people. Including engineering and sales.
+- Directly coordinating with each other.
+- 2 week scrums.
+- Weekly standup call every Monday.
+- Tickets on GitHub Issues.
+- Communication and coordination over Discord. 
+- Directly solving users' issues over Discord channels.
 
 ### Stack
 
