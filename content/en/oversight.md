@@ -48,13 +48,32 @@ And my search for a first-class easy to use front-end framework landed me on [Nu
 
 And that is it. It took me about 2 months to learn all these new tools, and put together a beta version of the platform that could be rolled out for first batch of users. This is just a few months before the pandemic.
 
-## Journey Downhill
+## What went wrong?
 
-To be continued...
-## Where We Failed
+The pandemic. Almost once in a lifetime phenomenon, which no one could've imagined in their wildest dreams. Almost the entire planet shut down. On March 24th Prime Minister Modi had announced India's first nationwide lockdown. Since, most of our initial clients/leads were inside colleges and laboratories, almost all of which had shut down, we just lost entirety of our initial leads almost overnight. All of this meant - **no revenue at all!**
 
-To be continued...
+As a side effect of this lockdown, even government offices started working too slow. Compliances which used to take not more than 2-3 days, were now taking weeks, and sometimes months, due to lack of staff at offices.
+
+## Where Did We Primarily Fail
+
+But the pandemic wasn't the fundamental reason why we lost the game. It was us. We were simply not good enough, and simply didn't realise how tough building a venture is. The world of enterprise turned out to be nothing of the sort we'd hoped it would be.
+
+We learned something the hard way, which I want every single first-time entrepreneur to know. That **it is easy to build a software. It's tough to sell your product. And it's even more fucking tough to turn it into a business.** Building a software isn't equal to building a business.
+
+I wish someone would have told me this before we incorporated our company, that we should first establish a gauranteed list of early users, who wouldn't ditch us, and will definitely generate revenue for us. And only then start building the software. Otherwise it would turn out to be a waste of time. As it did!
+
+<alert>
+
+It's easy to code a website. It's tough to get users.
+
+</alert>
+
+And that is primarily where we failed. **We failed to sell the idea. We failed to get enough users.** We even tried to introduce new features, and ultimately pivoted to an entirely different fundamental product, that was a social networking platform for academics, keeping crowdfunding research as a supporting/miscellaneous feature.
 
 ## What I Learned
+
+To be continued...
+
+## Game Over
 
 To be continued...
