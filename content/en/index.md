@@ -3,7 +3,7 @@ title: Call Me "Wahal"
 menuTitle: Profile
 description: Engineering & Philosophy. Golang, GraphQL & NuxtJS
 subtitle: Artificial General Intelligence. Upanishads. Artificial Consciousness & Developer Experience (DX) Engineering.
-badge: "pronounced: vaa-hul"
+badge: say "vaa-hul"
 fullscreen: false
 position: 1
 stack:
@@ -49,7 +49,7 @@ books:
   </div>
  -->
 
-<div class="grid grid-rows-1 grid-flow-col gap-6 flex items-stretch">
+<div class="grid grid-rows-1 lg:grid-flow-col gap-6 flex items-stretch flex-col">
   <div class="row-span-2">
   <img src="/profile.jpg" width="240" height="640" alt="Mrinal Wahal"/>
   </div>
@@ -73,7 +73,7 @@ books:
 
 <list :items="tools"></list>
 
-## Interested In, But Not An Expert
+## Interested In
 
 <list :items="interests"></list>
 
