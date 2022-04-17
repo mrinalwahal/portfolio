@@ -1,5 +1,6 @@
 ---
 title: Sponsor My Work
+description: Empower me by sponsoring me.
 subtitle: If you want to empower me to continue the work I'm doing, then feel free to send me sponsorship across.
 position: 8
 category: info

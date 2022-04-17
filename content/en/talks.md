@@ -2,6 +2,7 @@
 title: Lectures/Talks
 menuTitle: Talks
 subtitle: To invite me for a talk/lecture, just drop me an email.
+description: Talks, webinars, speeches and guest lectures that I've delivered.
 category: info
 position: 7
 topics:

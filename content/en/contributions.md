@@ -1,6 +1,7 @@
 ---
 title: Open Source Contributions
 menuTitle: Open Source
+description: My Open Source Contributions & Initiatives
 subtitle: All the open source repositories I've started, and the ones I've contributed to.
 category: work
 position: 3

@@ -1,6 +1,7 @@
 ---
 title: Work Experience
 menuTitle: Professional
+description: Work experience. Backend Engineer. Fullstack Engineer. Golang Engineer. Golang, GraphQL & NuxtJS.
 subtitle: These are my professional engagements that I've pursued full-time.
 category: work
 position: 2
