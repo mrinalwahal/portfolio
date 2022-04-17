@@ -6,10 +6,10 @@ description: Crowdfund advanced scientific research. CMS for research collaborat
 subtitle: Story of my first start-up. And how we failed at it. A crowdfunding platform for advanced scientific research. And content management and collaboration system for academic research.
 position: 5
 stack:
-    - Nuxt.js (On Vercel)
-    - Golang (Stateful API, deployed on Elastic Beanstalk)
+    - Nuxt.js SSR (Deployed on Vercel)
+    - Golang (Stateful API on Echo framework, deployed on Elastic Beanstalk)
     - GraphQL (Hasura)
-    - AWS (EC2, RDS/Postgres, ELB)
+    - AWS (EC2, S3, RDS/Postgres, ELB)
     - Razorpay (Payments)
 ---
 
@@ -54,6 +54,10 @@ And my search for a first-class easy to use front-end framework landed me on [Nu
 
 And that is it. It took me about 2 months to learn all these new tools and put together a beta version of the platform that could be rolled out for first the batch of users. This is just a few months before the pandemic.
 
+## Stack
+
+<list :items="stack"></list>
+
 ## What went wrong?
 
 The pandemic. Almost once in a lifetime phenomenon, which no one could've imagined in their wildest dreams. Almost the entire planet shut down. On March 24th 2020 Prime Minister Modi announced India's first nationwide lockdown. Since most of our initial clients/leads were inside colleges and laboratories, almost all of which had shut down, we just lost the entirety of our initial leads almost overnight. All of this meant - **no revenue at all!**
@@ -92,12 +96,14 @@ Every single day, after tens of cold calls, mass spamming over Instagram, and sh
 
 Since Oversight had already taken a toll on the mental health of both myself and Hemant, we decided to call it off. Also, it didn't make sense to continue bootstrapping the venture since our finances were now diluted, and our families also needed our help more than ever.
 
-Hemant went back to working with Infosys, from which he had taken a sabbatical to build Oversight with me, and I officially took down the entire AWS infrastructure in March 2021.
+Hemant went back to working with Infosys, from which he had taken a sabbatical to build Oversight with me, and I subsequently took down the entire AWS infrastructure.
+
+<alert type="danger">
+
+Oversight was officially shut down in March 2021.
+
+</alert>
 
 All of this with a heavy heart. But also a sense of relief and a weird hope that some very troubling times are now behind us.
 
 From April onward of the same year, I started working with [Johan](https://twitter.com/elitasson/) and [Nuno](https://twitter.com/nunopato) at [Nhost.io](https://nhost.io). More about my journey at Nhost [over here](/work#nhostio-stockholm).
-
-### Stack
-
-<list :items="stack"></list>

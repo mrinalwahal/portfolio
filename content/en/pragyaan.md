@@ -3,10 +3,10 @@ title: Pragyaan
 badge: Pragyaan.co
 category: Projects
 description: Event management for educational events, workshops, webinars, training sessions and more.
-subtitle: Event management for educational events, workshops, webinars, training sessions and more.
+subtitle: Started as a side project. Event management for educational events, workshops, webinars, training sessions and more.
 position: 4
 stack:
-    - Nuxt.js (On Vercel)
+    - Nuxt.js SSR (Deployed on Vercel)
     - Golang (Serverless Functions)
     - GraphQL (Hasura)
     - Nhost (for Hasura, auth, storage and hosting)
@@ -39,6 +39,6 @@ Features might change. So keep an eye on the [platform](https://pragyaan.co) its
 
 I'm a very good engineer. I can build great products like Pragyaan. But I suck at sales and lead generation. I'm looking for someone who can join me either part-time, or full-time, to search and onboard more organizers, who can start using the platform. Can either be done through personal contacts, cold calls, cold emails, or marketing. Compensation is something we can discuss over the call. Doesn't matter how old you are, or how qualified you are. If you can find me clients, just drop me an email. Or reach out on Instagram.
 
-### Stack
+## Stack
 
 <list :items="stack"></list>

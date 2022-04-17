@@ -6,6 +6,20 @@ Feel free to fork or clone this repository if you want to deploy your own site.
 
 **Do give the repository a star to show your support.**
 
+## Links
+
+The social links available in the header, extra links available in the side navigation bar, as well as location in the footer, can be enabled from `settings.json` file. Following links are available:
+
+- Instagram
+- GitHub
+- Twitter
+- Mail
+- Location
+- Resume
+- Call
+
+Use my code for reference.
+
 ## Clone
 
 ```
