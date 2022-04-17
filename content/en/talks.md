@@ -2,8 +2,8 @@
 title: Lectures/Talks
 menuTitle: Talks
 subtitle: To invite me for a talk/lecture, just drop me an email.
-category: Info
-position: 4
+category: info
+position: 7
 topics:
     - Entrepreneurship
     - Neural Networks

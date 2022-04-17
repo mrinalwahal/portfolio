@@ -3,7 +3,7 @@ title: Call Me "Wahal"
 menuTitle: Profile
 description: Golang, GraphQL & NuxtJS
 subtitle: Artificial General Intelligence. Upanishads. Artificial Consciousness & Developer Experience (DX) Engineering.
-badge: Remote | Delhi, IN
+badge: "pronounced: vaa-hul"
 fullscreen: false
 position: 1
 stack:
@@ -12,9 +12,9 @@ stack:
   - GraphQL (Hasura/Apollo)
   - NuxtJS
 familarity:
-  - Microservices
-  - CI/CD
-  - Containerization
+  - Serverless Functions
+  - Microservices / Containerization
+  - CI/CD, DevOps
   - Javascript
 tools:
   - Docker
@@ -25,26 +25,42 @@ interests:
   - Morality and Ethics for AI
   - Philosophy
   - Upanishads
+podcasts:
+  - Joscha Bach
+  - Lex Fridman
+  - Swami Sarvapriyananda
+  - Stephen Wolfram
 books:
+  - The Order of Time - Carlo Rovelli
+  - Phantoms in the Brain - V.S. Ramachandran
+  - Godel, Escher, Bach - "An Eternal Golden Braid" - Douglas R. Hofstadter
   - Maandukya Upanishad - 800 BC.
   - Arthshashtra - Kautilya/Chanakya
   - Chanakya Neeti - Kautilya/Chanakya
   - Meditations - Marcus Aurelius
-  - The Subtle Art of Not Giving a Fuck - Mark Manson
   - The Bhagavat Gita - Sage Vyasa 
   - Aitareya Upanishad - 800 BC.
 ---
 
-  <img src="/profile.jpg" width="180" height="640" alt="Mrinal Wahal"/>
-
-<!-- [Module]() for [NuxtJS](https://nuxtjs.org).
-
-<alert type="success">
-
-Your documentation has been created successfully!
-
-</alert>
+<!-- <div class="grid grid-rows-1 grid-flow-col">
+  <div class="row-span-1 flex justify-center">
+  <img src="/profile.jpg" width="360" height="640" alt="Mrinal Wahal"/>
+  </div>
+  </div>
  -->
+
+<div class="grid grid-rows-1 grid-flow-col gap-6 flex items-stretch">
+  <div class="row-span-2">
+  <img src="/profile.jpg" width="240" height="640" alt="Mrinal Wahal"/>
+  </div>
+  <div class="col-span-1 self-center">
+  Mostly spend my time writing Golang code, thinking about how to make machines dream,
+  and how to model human perception and consciousness.
+
+  If you are in Delhi, let's grab a beer 🍺 <a href="https://instagram.com/mrinalwahal"> Hit me up! </a>
+  </div>
+</div>
+
 ## Stack
 
 <list :items="stack"></list>
@@ -57,9 +73,13 @@ Your documentation has been created successfully!
 
 <list :items="tools"></list>
 
-## Interested In
+## Interested In, But Not An Expert
 
 <list :items="interests"></list>
+
+## Whom Do I Listen To?
+
+<list :items="podcasts"></list>
 
 ## Books Which Shaped Me
 

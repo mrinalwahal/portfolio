@@ -1,8 +1,8 @@
 ---
 title: Publications
 subtitle: My academic articles, research papers, and other intellectual pieces.
-category: Info
-position: 3
+category: info
+position: 6
 ---
 
 ## Published Papers

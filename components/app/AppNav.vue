@@ -102,12 +102,12 @@ export default {
                     to: 'https://calendly.com/wahal',
                     icon: 'calendar',
                 },
-                {
+/*                 {
                     title: 'Sponsor My Work',
                     to: 'https://rzp.io/l/wahal',
                     icon: 'dollar-sign',
                 },
-                {
+ */                {
                     title: 'Resume',
                     to: '/Resume.pdf',
                     icon: 'dollar-sign',

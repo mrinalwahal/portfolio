@@ -6,11 +6,22 @@
         "use": "@nuxtjs/vercel-builder",
         "config": {
           "serverFiles": [
-            ".nuxt/content/**",
-            "content/**"
-          ],
-          "internalServer": true
+              "package.json",
+              ".nuxt/content/**", 
+              "content/**"
+            ]
+        }
+      }
+    ],
+    "routes": [
+      {
+        "src": "/sw.js",
+        "continue": true,
+        "headers": {
+          "Cache-Control": "public, max-age=0, must-revalidate",
+          "Service-Worker-Allowed": "/"
         }
       }
     ]
   }
+  
