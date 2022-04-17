@@ -27,7 +27,7 @@ instantpost-stack:
 ---
 
 <alert type="success">
-3+ years of experience.
+3+ years of professional experience. Been coding since I was 14. What got me into this world was a fascination with Borland C++ blue coloured screen.
 </alert>
 
 ## Nhost.io, Stockholm
@@ -50,10 +50,15 @@ From May 2021, to February 2022, I worked with [Nhost](https://nhost.io/), as a 
 
 ## Oversight, Founder & CEO
 
+<b>
+
+You can read my entire story of Oversight's inception and death [over here](/oversight).
+
+</b>
+
 - CMS for research collaboration to allows scientists, faculties and students to collaborate on each other's research through mentorship, internships orprofessional collaboration.
 - Crowdfund on your research or generate monthly income from your followers.
 - Primary platform is available at [research.oversight.in](https://research.oversight.in).
-- You can read our entire story of Oversight's inception and death [over here](/oversight).
 
 <alert type="info">
 
