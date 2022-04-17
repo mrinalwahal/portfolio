@@ -5,6 +5,12 @@ category: Projects
 description: Crowdfund advanced scientific research. CMS for research collaboration.
 subtitle: Story of my first start-up. And how we failed at it. A crowdfunding platform for advanced scientific research. And content management and collaboration system for academic research.
 position: 5
+stack:
+    - Nuxt.js (On Vercel)
+    - Golang (Stateful API, deployed on Elastic Beanstalk)
+    - GraphQL (Hasura)
+    - AWS (EC2, RDS/Postgres, ELB)
+    - Razorpay (Payments)
 ---
 
 <alert>
@@ -91,3 +97,7 @@ Hemant went back to working with Infosys, from which he had taken a sabbatical t
 All of this with a heavy heart. But also a sense of relief and a weird hope that some very troubling times are now behind us.
 
 From April onward of the same year, I started working with [Johan](https://twitter.com/elitasson/) and [Nuno](https://twitter.com/nunopato) at [Nhost.io](https://nhost.io). More about my journey at Nhost [over here](/work#nhostio-stockholm).
+
+### Stack
+
+<list :items="stack"></list>

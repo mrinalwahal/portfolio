@@ -5,6 +5,12 @@ category: Projects
 description: Event management for educational events, workshops, webinars, training sessions and more.
 subtitle: Event management for educational events, workshops, webinars, training sessions and more.
 position: 4
+stack:
+    - Nuxt.js (On Vercel)
+    - Golang (Serverless Functions)
+    - GraphQL (Hasura)
+    - Nhost (for Hasura, auth, storage and hosting)
+    - Razorpay (Payments)
 ---
 
 I often deliver guest lectures at colleges like IIT Madras and Anna University, Chennai, on topics like Artificial Intelligence and Security Engineering.
@@ -32,3 +38,7 @@ Features might change. So keep an eye on the [platform](https://pragyaan.co) its
 ## Opportunities
 
 I'm a very good engineer. I can build great products like Pragyaan. But I suck at sales and lead generation. I'm looking for someone who can join me either part-time, or full-time, to search and onboard more organizers, who can start using the platform. Can either be done through personal contacts, cold calls, cold emails, or marketing. Compensation is something we can discuss over the call. Doesn't matter how old you are, or how qualified you are. If you can find me clients, just drop me an email. Or reach out on Instagram.
+
+### Stack
+
+<list :items="stack"></list>
