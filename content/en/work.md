@@ -41,7 +41,7 @@ instantpost-stack:
 
 <alert type="info">
 
-From May 2021, to February 2022, I worked with [Nhost](https://nhost.io/), as a backend/infrastructure engineer. Was one of the core team members when Nhost raised $3 Million from founders of GitHub and Vercel.
+From May 2021, to February 2022, I worked with [Nhost](https://nhost.io/), as a backend/infrastructure engineer. Was one of the core team members after Nhost raised $3 Million from founders of GitHub and Vercel.
 
 </alert>
 
@@ -61,7 +61,7 @@ From May 2021, to February 2022, I worked with [Nhost](https://nhost.io/), as a 
 
 ### Learnings
 
-I learned a great deal from [Johan](https://twitter.com/elitasson/) and [Nuno](https://twitter.com/nunopato) about how to setup an early stage engineering team. Everything from carefully handpicking engineers, to prioritizing which features make sense to be rolled out next, to finding workarounds troubling yet insignificant engineering problems, and finally building a great product, whilst placing a lot of focus on user feedback. I have nothing but great respect for both of them.
+I learned a great deal from [Johan](https://twitter.com/elitasson/) and [Nuno](https://twitter.com/nunopato) about how to setup an early stage engineering team. Everything from carefully handpicking engineers, to prioritizing which features make sense to be rolled out next, to finding workarounds troubling yet insignificant engineering problems, and finally building a great product, whilst placing a lot of focus on user feedback. Apart from how much I loved writing code and solving engineering problems, I have a special respect for both of them.
 ## Oversight, Founder & CEO
 
 <b>

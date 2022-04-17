@@ -14,7 +14,7 @@ topics:
 ---
 ## Talks
 
-1. Artificial Intelligence in Food Indutry - By Department of Food Processing & Nutrition, Karnataka State Akkamahadevi Women’s University Vijayapura - January 18th, 2020
+1. Artificial Intelligence in Food Industry - By Department of Food Processing & Nutrition, Karnataka State Akkamahadevi Women’s University Vijayapura - January 18th, 2020
 2. Can AI replace judges of a court? - By Argute, IP University, Delhi - May 4th, 2020
 3. The New Wave of Funding Your Research Projects - By Amity Innovation Incubator, Noida - October 30th, 2020
 

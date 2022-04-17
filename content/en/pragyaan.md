@@ -8,7 +8,7 @@ position: 4
 ---
 
 I often deliver guest lectures at colleges like IIT Madras and Anna University, Chennai, on topics like Artificial Intelligence and Security Engineering.
-And my organisers often used to complaint about how the platforms that they use for event management and ticketting, like BookMyShow, charge as high as 25% commission, and take weeks to disburse payments.
+And my organisers often used to complain about how the platforms that they use for event management and ticketing, like BookMyShow, charge as high as 25% commission and take weeks to disburse payments.
 
 To solve their problem I started building <a href="https://pragyaan.co">Pragyaan.co</a>, which is tailored for educational events, webinars, workshops, industrial training, and offers are much more straightforward and transparent pricing.
 ## Features
@@ -31,4 +31,4 @@ Features might change. So keep an eye on the [platform](https://pragyaan.co) its
 
 ## Opportunities
 
-I'm a very good engineer. I can build great products like Pragyaan. But I suck at sales, and lead generation. I'm looking for someone who can join me either part time, or full time, to search and on-board more organizers, who can start using the platform. Can either be done through personal contacts, cold calls, cold emails, or marketing. Compensation is something we can discuss over the call. Doesn't matter how old you are, or how qualified you are. If you can find me clients, just drop me an email. Or reach out on Instagram.
+I'm a very good engineer. I can build great products like Pragyaan. But I suck at sales and lead generation. I'm looking for someone who can join me either part-time, or full-time, to search and onboard more organizers, who can start using the platform. Can either be done through personal contacts, cold calls, cold emails, or marketing. Compensation is something we can discuss over the call. Doesn't matter how old you are, or how qualified you are. If you can find me clients, just drop me an email. Or reach out on Instagram.
