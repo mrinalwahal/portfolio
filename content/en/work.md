@@ -7,9 +7,10 @@ category: work
 position: 2
 nhost-stack:
     - Golang 
-    - AWS 
-    - GitHub Actions 
+    - Hasura
     - Docker
+    - GitHub Actions 
+    - AWS 
 os-stack:
     - Nuxt.js
     - Golang
@@ -58,6 +59,9 @@ From May 2021, to February 2022, I worked with [Nhost](https://nhost.io/), as a 
 
 <list :items="nhost-stack"></list>
 
+### Learnings
+
+I learned a great deal from Johan](https://twitter.com/elitasson/) and [Nuno](https://twitter.com/nunopato) about how to setup an early stage engineering team. Everything from carefully handpicking engineers, to prioritizing which features make sense to be rolled out next, to finding workarounds troubling yet insignificant engineering problems, and finally building a great product, whilst placing a lot of focus on user feedback. I have nothing but great respect for both of them.
 ## Oversight, Founder & CEO
 
 <b>
@@ -91,6 +95,9 @@ We ran Oversight for 1.5 years (until Q1 of 2021). Until we fell short on distri
 
 <list :items="os-stack"></list>
 
+### Learnings
+
+You can read my entire journey of Oversight, and the learnings I got from it, in detail from [over here](/oversight).
 ## InstantPost, Bangalore
 
 - Automated remote servers across India for a production-ready edge-computing environment. 

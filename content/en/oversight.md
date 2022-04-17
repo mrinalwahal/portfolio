@@ -50,7 +50,7 @@ And that is it. It took me about 2 months to learn all these new tools, and put 
 
 ## What went wrong?
 
-The pandemic. Almost once in a lifetime phenomenon, which no one could've imagined in their wildest dreams. Almost the entire planet shut down. On March 24th Prime Minister Modi had announced India's first nationwide lockdown. Since, most of our initial clients/leads were inside colleges and laboratories, almost all of which had shut down, we just lost entirety of our initial leads almost overnight. All of this meant - **no revenue at all!**
+The pandemic. Almost once in a lifetime phenomenon, which no one could've imagined in their wildest dreams. Almost the entire planet shut down. On March 24th 2020 Prime Minister Modi had announced India's first nationwide lockdown. Since, most of our initial clients/leads were inside colleges and laboratories, almost all of which had shut down, we just lost entirety of our initial leads almost overnight. All of this meant - **no revenue at all!**
 
 As a side effect of this lockdown, even government offices started working too slow. Compliances which used to take not more than 2-3 days, were now taking weeks, and sometimes months, due to lack of staff at offices.
 
@@ -72,8 +72,22 @@ And that is primarily where we failed. **We failed to sell the idea. We failed t
 
 ## What I Learned
 
-To be continued...
+Biggest learnings out of all was **humility** and **contentment**. Sometime into the lockdown, my dad was laid off from his job from a reputed airline, as was the case with millions of others all over the globe whose companies had decided to downsize to optimize for survival during the pandemic. When I started Oversight, I always had it at the back of my mind, that it's okay for me to not be able to generate stable income from Oversight for a few months, or years, because my dad can comfortably take care of our family finances. But now that comfortable option was gone.
+
+I remember, few months into my dad losing his job, my mom used to regularly check up on me, while I was typing on my laptop all day long, to inquire whether we started generating a reasonable revenue. She made it sound as if she was just casually inquiring and not really concerned over our monthly expenses. But as months passed, her lowered voice started making it even more clear to me about why she was inquiring, even if she never admitted.
+
+I knew exactly the situation my family was in. And I used to politely tell my mother that from the following month we're more hopefull that we'll have good money flowing into our accounts from the new users. It was the standard response from my end, every single month.
+
+I was continue to run Oversight knowing precisely the fact that I was lying to her about our realities. In hindsight, I feel I was being fairly selfish. Oversight, by then, had become more of my obsession instead of a reasonable idea that deserves to be perceived.
+
+Every single day, after tens of cold calls, mass spamming over Instagram, and shooting cold emails, when I would go back to bed at night with a **deflated ego** from having heard "no" so many times, there was little escape but developing humility.
 
 ## Game Over
 
-To be continued...
+Since Oversight had already taken a toll on the mental health of both myself, and Hemant, we decided to call it off. Also, it didn't make sense to continue bootstrapping the venture since our finances were now diluted, and our families also needed our help more than ever.
+
+Hemant went back to working with Infosys, from which he had taken a sabbatical to build Oversight with me, and I officially took down the entire AWS infrastructure in March 2021.
+
+All of this with a heavy heart. But also a sense of relief and a weird hope that some very troubling times are now behind us.
+
+From April onward of the same year, I started working with [Johan](https://twitter.com/elitasson/) and [Nuno](https://twitter.com/nunopato) at [Nhost.io](https://nhost.io). More about my journey at Nhost [over here](/work#nhostio-stockholm).
