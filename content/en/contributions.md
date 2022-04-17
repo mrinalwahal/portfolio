@@ -8,7 +8,7 @@ position: 3
 
 ## Nhost.io
 
-I still continue to keep an eye on [Nhost CLI's repository]((https://github.com/nhost/cli)). I conitnue to open issues, and submit pull requests to fix existing ones.
+I still continue to keep an eye on [Nhost CLI's repository](https://github.com/nhost/cli). I conitnue to open issues, and submit pull requests to fix existing ones.
 
 ## Google Summer of Code 2019
 

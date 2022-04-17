@@ -1,5 +1,5 @@
 ---
-title: It's just "Wahal"
+title: Call Me "Wahal"
 menuTitle: Profile
 description: Golang, GraphQL & NuxtJS
 subtitle: Artificial General Intelligence. Upanishads. Artificial Consciousness & Developer Experience (DX) Engineering.
