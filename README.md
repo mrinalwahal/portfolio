@@ -43,3 +43,5 @@ For detailed explanation on how things work, checkout [nuxt/content](https://con
 ```
 vercel --prod
 ```
+
+NOTE: Remember to override the default build command on Vercel project configuration to `nuxt generate`.
