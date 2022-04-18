@@ -2,8 +2,8 @@
 title: Wahal
 menuTitle: Profile
 description: Engineering & Philosophy. Golang, GraphQL (Hasura/Apollo) & NuxtJS
-subtitle: Artificial General Intelligence. Upanishads. Artificial Consciousness & Developer Experience (DX) Engineering.
-badge: say "vaa-hul"
+subtitle: Developer Experience (DX) Engineering. Artificial General Intelligence. Consciousness & Upanishads.
+badge: Open for hire
 fullscreen: false
 position: 1
 stack:
@@ -58,6 +58,10 @@ books:
   and how to model human perception and consciousness.
 
   If you are in Delhi, let's grab a beer 🍺 <a href="https://instagram.com/mrinalwahal"> Hit me up! </a>
+
+  <badge>
+  Say "vaa-hul"
+  </badge>
   </div>
 </div>
 

@@ -106,4 +106,10 @@ Oversight was officially shut down in March 2021.
 
 All of this with a heavy heart. But also a sense of relief and a weird hope that some very troubling times are now behind us.
 
-From April onward of the same year, I started working with [Johan](https://twitter.com/elitasson/) and [Nuno](https://twitter.com/nunopato) at [Nhost.io](https://nhost.io). More about my journey at Nhost [over here](/work#nhostio-stockholm).
+From April onward of the same year, I started working with [Johan](https://twitter.com/elitasson/) and [Nuno](https://twitter.com/nunopato) at [Nhost.io](https://nhost.io).
+
+<alert>
+
+You can read more about my journey at Nhost [over here](/work#nhostio-stockholm).
+
+</alert>

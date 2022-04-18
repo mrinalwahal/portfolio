@@ -1,6 +1,6 @@
 # My Personal Portfolio Website
 
-It's based on [Nuxt content docs theme](). I hacked it together as per my requirements.
+It's based on [Nuxt content docs theme](https://content.nuxtjs.org/themes/docs/). I hacked it together as per my requirements.
 
 Feel free to fork or clone this repository if you want to deploy your own site. 
 
@@ -8,7 +8,7 @@ Feel free to fork or clone this repository if you want to deploy your own site.
 
 ## Links
 
-The social links available in the header, extra links available in the side navigation bar, as well as location in the footer, can be enabled from `settings.json` file. Following links are available:
+The social links available in the header, extra links available in the side navigation bar, as well as location in the footer, can be enabled from `content/settings.json` file. Following links are available:
 
 - Instagram
 - GitHub

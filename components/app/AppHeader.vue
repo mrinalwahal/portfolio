@@ -13,7 +13,6 @@
             :aria-label="`${settings.title} Logo`"
           >
             <span v-if="!logo">{{ settings.title }}</span>
-
             <img
               v-if="logo"
               :src="logo.light"
@@ -38,6 +37,7 @@
             exact-active-class="text-primary-500"
           >{{ lastRelease.name }}</NuxtLink>
           <div class="flex items-center">
+
             <a
               v-if="settings.mail"
               :href="`mailto:${settings.mail}`"
