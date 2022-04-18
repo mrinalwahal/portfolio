@@ -6,6 +6,20 @@ export default theme({
   docs: {
     primaryColor: '#1da1f2'
   },
-
+  /* i18n: {
+    locales: () => [{
+      code: 'sa',
+      iso: 'sa_IN',
+      file: 'sa_IN.js',
+      name: 'Sanskrit'
+    }, {
+      code: 'en',
+      iso: 'en-US',
+      file: 'en-US.js',
+      name: 'English'
+    }],
+    defaultLocale: 'en'
+  },
+   */
   buildModules: ['@nuxtclub/feathericons'],
 })

@@ -4,6 +4,7 @@ menuTitle: Jobs
 description: Work experience. Jobs. Backend Engineer. Fullstack Engineer. Golang Engineer. Golang, GraphQL & NuxtJS.
 subtitle: These are the professional engagements that I've pursued full-time.
 category: work
+badge: Open for hire
 position: 2
 nhost-stack:
     - Golang 

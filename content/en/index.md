@@ -3,7 +3,7 @@ title: Wahal
 menuTitle: Profile
 description: Engineering & Philosophy. Golang, GraphQL (Hasura/Apollo) & NuxtJS
 subtitle: Developer Experience (DX) Engineering. Artificial General Intelligence. Consciousness & Upanishads.
-badge: Open for hire
+badge: Say "vaa-hul"
 fullscreen: false
 position: 1
 stack:
@@ -54,14 +54,16 @@ books:
   <img src="/profile.jpg" width="240" height="640" alt="Mrinal Wahal"/>
   </div>
   <div class="col-span-1 self-center">
-  Mostly spend my time writing Golang code, thinking about how to make machines dream,
+  Writing developer tools in Golang, thinking about how to make machines dream,
   and how to model human perception and consciousness.
 
-  If you are in Delhi, let's grab a beer 🍺 <a href="https://instagram.com/mrinalwahal"> Hit me up! </a>
+  If you are in Delhi, let's grab a beer 🍺 <a href="https://instagram.com/mrinalwahal" class="no-underline"> Hit me up! </a>
 
-  <badge>
-  Say "vaa-hul"
-  </badge>
+<!--   <button class="bg-primary-100 dark:bg-primary-900 text-primary-500 font-bold py-2 px-4 rounded-full inline-flex items-center">
+  <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
+  <span>Download</span>
+</button>
+ -->
   </div>
 </div>
 

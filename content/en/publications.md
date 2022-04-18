@@ -1,5 +1,6 @@
 ---
 title: Publications
+menuTitle: Publications
 description: My academic articles, research papers, and other intellectual pieces.
 subtitle: My academic articles, research papers, and other intellectual pieces.
 category: info
