@@ -26,6 +26,7 @@ interests:
   - Philosophy
   - Upanishads
 podcasts:
+  - My "self" which is a monkey riding an elephant.
   - Joscha Bach
   - Lex Fridman
   - Swami Sarvapriyananda

@@ -58,7 +58,7 @@
       <a v-if="settings.call" :href="settings.call" target="_blank"
         class="px-2 rounded font-medium py-1 hover:text-primary-500 flex items-center"
         exact-active-class="text-primary-500 bg-primary-100 hover:text-primary-500 dark:bg-primary-900">
-        Schedule a Call
+        Schedule Call
       </a>
 
     </div>
