@@ -31,6 +31,7 @@ podcasts:
   - Lex Fridman
   - Swami Sarvapriyananda
   - Stephen Wolfram
+  - Balaji Srinivasan
 books:
   - The Order of Time - Carlo Rovelli
   - Phantoms in the Brain - V.S. Ramachandran
