@@ -20,10 +20,11 @@ tools:
   - Docker
   - Git
   - GitHub Actions
+  - Vercel
 interests:
-  - Deep Learning
-  - Morality and Ethics for AI
-  - Philosophy
+  - First Principles Thinking
+  - Artificial General Intelligence
+  - Consciousness & Computational Philosophy
   - Upanishads
 podcasts:
   - My "self" which is a monkey riding an elephant.
