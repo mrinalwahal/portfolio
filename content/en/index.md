@@ -90,9 +90,22 @@ books:
 
 <list :items="podcasts"></list>
 
-## Books Which Shaped Me
+## Readings
 
 <list :items="books"></list>
+
+<ol>
+<li>
+
+[Fundamental Theory of Physics - Stephen Wolfram](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
+
+</li>
+<li>
+
+[The Lambda Calculus for Absolute Dummies - Joscha Bach](http://bach.ai/lambda-calculus-test-doc/)
+
+</li>
+</ol>
 
 ## Education
 
