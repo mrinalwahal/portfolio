@@ -10,10 +10,14 @@
               <div v-if="icon" v-html="$feathericons[icon].toSvg()" class="h-6 w-6"></div>
         <component v-else :is="iconName" class="h-6 w-6" />
       </span>
-        <a style="text-decoration: none; color: inherit;" :href="item.value" target="_blank"> 
+        <a v-if="anchor" style="text-decoration: none; color: inherit;" :href="item.value" target="_blank"> 
           {{ item.key }}
 <!--       <IconExternalLink :class="`link-${type} w-6 h-6 ml-2 mt-px`" /> -->
 </a>
+<nuxt-link v-else style="text-decoration: none;" :to="item.value"> 
+  {{ item.key }} 
+</nuxt-link>
+
           </div>
   </div>
 </template>
@@ -28,6 +32,10 @@ export default {
     icon: {
       type: String,
       default: null
+    },
+    anchor: {
+      type: Boolean,
+      default: false
     },
     disclaimer: {
       type: Boolean,

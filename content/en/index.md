@@ -153,11 +153,11 @@ Joscha Bach's position on [computationalist functionalism](https://youtu.be/uXd1
 
 ## Following
 
-<links icon="user" :items="following"></links>
+<links anchor icon="user" :items="following"></links>
 
 ## Readings
 
-<links icon="book-open" :items="readings"></links>
+<links anchor icon="book-open" :items="readings"></links>
 
 ## Education
 
