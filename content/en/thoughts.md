@@ -1,6 +1,6 @@
 ---
 title: Inside My Mind
-menuTitle: Thoughts
+#menuTitle: Thoughts
 description: Blog & Documentation. Thoughts. Philosphy. Engineering. Posts.
 position: 2
 subtitle: Documentation of my mental models. Ideas on engineering, philosophy and reality.
