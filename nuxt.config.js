@@ -6,7 +6,10 @@ export default theme({
   docs: {
     primaryColor: '#1da1f2'
   },
-  /* i18n: {
+/*   content: {
+    liveEdit: false
+  },
+ */  /* i18n: {
     locales: () => [{
       code: 'sa',
       iso: 'sa_IN',

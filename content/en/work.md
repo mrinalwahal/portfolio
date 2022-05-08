@@ -42,7 +42,7 @@ instantpost-stack:
 
 <alert type="info">
 
-From May 2021 to February 2022, I worked with [Nhost](https://nhost.io/), as a backend/infrastructure engineer. Was one of the core team members after Nhost raised $3 Million from the founders of GitHub and Vercel.
+From May 2021 to February 2022, I worked with [Nhost](https://nhost.io/), as a backend engineer. Was one of the core team members after Nhost raised $3 Million from the founders of GitHub and Vercel.
 
 </alert>
 

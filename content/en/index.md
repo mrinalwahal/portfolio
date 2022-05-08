@@ -26,23 +26,81 @@ interests:
   - Artificial General Intelligence
   - Consciousness & Computational Philosophy
   - Upanishads
-podcasts:
-  - My "self" which is a monkey riding an elephant.
-  - Joscha Bach
-  - Lex Fridman
-  - Swami Sarvapriyananda
-  - Stephen Wolfram
-  - Balaji Srinivasan
-books:
-  - The Order of Time - Carlo Rovelli
-  - Phantoms in the Brain - V.S. Ramachandran
-  - Godel, Escher, Bach - "An Eternal Golden Braid" - Douglas R. Hofstadter
-  - Maandukya Upanishad - 800 BC.
-  - Arthshashtra - Kautilya/Chanakya
-  - Chanakya Neeti - Kautilya/Chanakya
-  - Meditations - Marcus Aurelius
-  - The Bhagavat Gita - Sage Vyasa 
-  - Aitareya Upanishad - 800 BC.
+following:
+  - {
+    key: My "self" which is a monkey riding an elephant.,
+  }
+  - {
+    key: Joscha Bach,
+    value: https://www.youtube.com/c/JoschaBach
+  }
+  - {
+    key: Lex Fridman,
+    value: https://www.youtube.com/c/lexfridman
+  }
+  - {
+    key: Swami Sarvapriyananda,
+    value: https://www.youtube.com/watch?v=eGKFTUuJppU&t=2s
+  }
+  - {
+    key: Stephen Wolfram,
+    value: https://www.youtube.com/results?search_query=Stephen+Wolfram
+  }
+  - {
+    key: Balaji Srinivasan,
+    value: https://archive.balajis.com/
+  }
+
+readings:
+  - {
+    key: The Order of Time - Carlo Rovelli,
+    value: https://www.amazon.in/Order-Time-Carlo-Rovelli/dp/073521610X
+  }
+  - {
+    key: Phantoms in the Brain - V.S. Ramachandran,
+    value: https://www.amazon.in/Phantoms-Brain-Human-Nature-Architecture/dp/0007253893
+  }
+  - {
+    key: "Godel, Escher, Bach - An Eternal Golden Braid - Douglas R. Hofstadter",
+    value: https://www.amazon.in/dp/0465026567
+  }
+  - {
+    key: Maandukya Upanishad - 800 BC.,
+    value: https://www.amazon.in/dp/8175976640
+  }
+  - {
+    key: Aitareya Upanishad - 800 BC,
+    value: https://www.amazon.in/dp/8175976691/ref=cm_sw_r_tw_dp_4GE01858WY8GJND1ZEJ6
+  }
+  - {
+    key: Kathopanishad Upanishad - 800 BC,
+    value: https://www.amazon.in/dp/8175976624/ref=cm_sw_r_tw_dp_FJZKP5TGB8HMRX4TZXNB?_encoding=UTF8&psc=1
+  }
+  - {
+    key: Arthshashtra - Kautilya/Chanakya,
+    value: https://www.amazon.in/dp/0140446036/ref=cm_sw_r_tw_dp_dl_5B9VN8DXTY82GHWD4N9Z
+  }
+  - {
+    key: Chanakya Neeti - Kautilya/Chanakya,
+    value: https://www.amazon.in/dp/8128400487
+  }
+  - {
+    key: Meditations - Marcus Aurelius,
+    value: https://www.amazon.in/dp/8175994754
+  }
+  - {
+    key: The Bhagavat Gita - Sage Vyasa,
+    value: https://www.amazon.in/dp/9384454117/ref=cm_sw_r_tw_dp_YG55PBGX338MRAABNYX5
+  }
+  - {
+    key: Fundamental Theory of Physics - Stephen Wolfram,
+    value:  https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
+  }
+  - {
+    key: Lambda Calculus for Absolute Dummies - Joscha Bach,
+    value: http://bach.ai/lambda-calculus-test-doc
+  }
+
 ---
 
 <!-- <div class="grid grid-rows-1 grid-flow-col">
@@ -86,26 +144,19 @@ books:
 
 <list :items="interests"></list>
 
-## Whom Do I Listen To?
+## Following
 
-<list :items="podcasts"></list>
+<alert>
+
+You can click the links to visit them.
+
+</alert>
+
+<links icon="user" :items="following"></links>
 
 ## Readings
 
-<list :items="books"></list>
-
-<ol>
-<li>
-
-[Fundamental Theory of Physics - Stephen Wolfram](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
-
-</li>
-<li>
-
-[The Lambda Calculus for Absolute Dummies - Joscha Bach](http://bach.ai/lambda-calculus-test-doc/)
-
-</li>
-</ol>
+<links icon="book-open" :items="readings"></links>
 
 ## Education
 
