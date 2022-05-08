@@ -1,7 +1,7 @@
 ---
 title: Wahal
 menuTitle: Profile
-description: Software Engineering & Philosophy. Golang, GraphQL (Hasura/Apollo) & NuxtJS
+description: Software Engineering & Philosophy. Golang. Computation. AGI.
 subtitle: Software Engineering. Computational Universe. Artificial General Intelligence.
 badge: Say "vaa-hul"
 fullscreen: false
@@ -115,8 +115,8 @@ readings:
 
 <div class="grid grid-rows-1 lg:grid-flow-col gap-6 flex items-stretch flex-col">
   <div class="row-span-2">
-  <a href="/profile.jpg" target="_blank">
-  <img src="/profile.jpg" width="240" height="640" alt="Mrinal Wahal"/>
+  <a href="/preview.jpg" target="_blank">
+  <img src="/preview.jpg" width="240" height="640" alt="Mrinal Wahal"/>
   </a>
   </div>
   <div class="col-span-1 self-center">

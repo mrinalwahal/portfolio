@@ -28,6 +28,9 @@ This post is very heavily inspired from Joscha Bach's [computationalist function
 
 shared principles are required to continue achieving goals
 
+Web3 is about building a massive new decentralized network. Or interconnected child networks. Networks need incentives to remain intact. That incentive is culture. Culture needs ideology. Ideology needs boundaries. Boundaries warrant control.
+
+I'm not that excited about web3.
 ### God
 
 explain all types of gods
