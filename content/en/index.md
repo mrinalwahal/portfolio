@@ -115,8 +115,8 @@ readings:
 
 <div class="grid grid-rows-1 lg:grid-flow-col gap-6 flex items-stretch flex-col">
   <div class="row-span-2">
-  <a href="/preview.png" target="_blank">
-  <img src="/preview.png" width="240" height="640" alt="Mrinal Wahal"/>
+  <a href="/profile.png" target="_blank">
+  <img src="/profile.png" width="240" height="640" alt="Mrinal Wahal"/>
   </a>
   </div>
   <div class="col-span-1 self-center">
