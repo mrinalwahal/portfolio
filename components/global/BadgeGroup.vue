@@ -1,19 +1,11 @@
 <template>
   <div>
-
-<!--     <span v-if="disclaimer" class="text-gray-600 dark:text-gray-500"> 
-      You can click the links to visit them. 
-      </span>
- -->
-    <div v-for="(item, i) in items" :key="i" class="mt-3 flex">
-      <span :class="`link-${type}`" class="mt-px mr-3 flex-shrink-0">
-              <div v-if="icon" v-html="$feathericons[icon].toSvg()" class="h-6 w-6"></div>
-        <component v-else :is="iconName" class="h-6 w-6" />
-      </span>
-        <a style="text-decoration: none; color: inherit;" :href="item.value" target="_blank"> 
-          {{ item.key }}
-<!--       <IconExternalLink :class="`link-${type} w-6 h-6 ml-2 mt-px`" /> -->
-</a>
+    <div>
+      <Badge
+      v-for="(item, i) in items" :key="i"
+      class="mt-2 mr-3 flex-shrink-0">
+          {{ item }}
+      </Badge>
           </div>
   </div>
 </template>

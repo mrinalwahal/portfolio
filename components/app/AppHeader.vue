@@ -39,34 +39,6 @@
           <div class="flex items-center">
 
             <a
-              v-if="settings.mail"
-              :href="`mailto:${settings.mail}`"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="Email"
-              name="Email"
-              class="text-gray-700 dark:text-gray-300 hover:text-primary-500 dark-hover:text-primary-500 ml-4"
-              :class="{
-                'hidden lg:block': settings.layout !== 'single'
-              }"
-            >
-              <div v-html="$feathericons['mail'].toSvg()"></div>
-            </a>
-            <a
-              v-if="settings.instagram"
-              :href="`https://instagram.com/${settings.instagram}`"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="Email"
-              name="Email"
-              class="text-gray-700 dark:text-gray-300 hover:text-primary-500 dark-hover:text-primary-500 ml-4"
-              :class="{
-                'hidden lg:block': settings.layout !== 'single'
-              }"
-            >
-              <div v-html="$feathericons['instagram'].toSvg()"></div>
-            </a>
-            <a
               v-if="settings.twitter"
               :href="`https://twitter.com/${settings.twitter}`"
               target="_blank"
@@ -93,6 +65,35 @@
               }"
             >
               <IconGithub class="w-5 h-5" />
+            </a>
+
+            <a
+              v-if="settings.mail"
+              :href="`mailto:${settings.mail}`"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Email"
+              name="Email"
+              class="text-gray-700 dark:text-gray-300 hover:text-primary-500 dark-hover:text-primary-500 ml-4"
+              :class="{
+                'hidden lg:block': settings.layout !== 'single'
+              }"
+            >
+              <div v-html="$feathericons['mail'].toSvg()"></div>
+            </a>
+            <a
+              v-if="settings.instagram"
+              :href="`https://instagram.com/${settings.instagram}`"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Email"
+              name="Email"
+              class="text-gray-700 dark:text-gray-300 hover:text-primary-500 dark-hover:text-primary-500 ml-4"
+              :class="{
+                'hidden lg:block': settings.layout !== 'single'
+              }"
+            >
+              <div v-html="$feathericons['instagram'].toSvg()"></div>
             </a>
             <a
               v-if="settings.linkedin"

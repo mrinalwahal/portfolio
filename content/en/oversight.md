@@ -15,7 +15,8 @@ stack:
 ---
 
 <alert>
-The primary platform is available at <a href="https://research.oversight.in">research.oversight.in</a>. 
+The primary platform is available at <a href="https://research.oversight.in">research.oversight.in
+</a>. 
 Supporting micro-site is at <a href="https://resources.oversight.in">resources.oversight.in</a>.
 The social networking platform, which was earlier available at <b>oversight.in</b> is now shut down.
 </alert>

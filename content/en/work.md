@@ -7,17 +7,17 @@ category: work
 badge: Open for hire
 position: 2
 nhost-stack:
-    - Golang 
-    - Hasura
-    - Docker
-    - GitHub Actions 
-    - AWS 
+    - CLI written in Golang using Cobra
+    - Hasura as the core GraphQL engine
+    - Docker for orchestrating Nhost's auth, storage and DB services
+    - GitHub Actions for CI/CD
+    - AWS for infrastructure
 os-stack:
-    - Nuxt.js
-    - Golang
-    - GraphQL
-    - AWS (EC2, RDS, ELB)
-    - Razorpay (payments)
+    - NuxtJS for front-end
+    - Golang for API, using Echo framework
+    - Hasura for GraphQL
+    - AWS (Hasura  on EC2, RDS, ELB)
+    - Razorpay for Payments
 instantpost-stack:
     - Python
     - Headless Servers

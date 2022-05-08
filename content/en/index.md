@@ -1,30 +1,33 @@
 ---
 title: Wahal
 menuTitle: Profile
-description: Engineering & Philosophy. Golang, GraphQL (Hasura/Apollo) & NuxtJS
-subtitle: Developer Experience (DX) Engineering. Artificial General Intelligence. Consciousness & Upanishads.
+description: Software Engineering & Philosophy. Golang, GraphQL (Hasura/Apollo) & NuxtJS
+subtitle: Software Engineering. Computational Universe. Artificial General Intelligence.
 badge: Say "vaa-hul"
 fullscreen: false
 position: 1
 stack:
   - Golang
   - REST
-  - GraphQL (Hasura/Apollo)
+  - GraphQL ( Hasura / Apollo )
   - NuxtJS
 familarity:
   - Serverless Functions
-  - Microservices / Containerization
-  - CI/CD, DevOps
+  - Microservices
+  - Containerization
+  - CI/CD
+  - DevOps
   - Javascript
-tools:
   - Docker
-  - Git
+  - Git (Obviously, duh!)
   - GitHub Actions
   - Vercel
 interests:
+  - Computational Universe
   - First Principles Thinking
   - Artificial General Intelligence
-  - Consciousness & Computational Philosophy
+  - What kind of a computer is required to run the universe?
+  - Consciousness
   - Upanishads
 following:
   - {
@@ -112,7 +115,9 @@ readings:
 
 <div class="grid grid-rows-1 lg:grid-flow-col gap-6 flex items-stretch flex-col">
   <div class="row-span-2">
+  <a href="/profile.jpg" target="_blank">
   <img src="/profile.jpg" width="240" height="640" alt="Mrinal Wahal"/>
+  </a>
   </div>
   <div class="col-span-1 self-center">
   Writing developer tools in Golang, thinking about how to make machines dream,
@@ -132,25 +137,21 @@ readings:
 
 <list :items="stack"></list>
 
-## Additionally Familiar With
+<b> Familiar Concepts & Tools </b>
 
-<list :items="familarity"></list>
-
-## Tools
-
-<list :items="tools"></list>
+<badge-group :items="familarity"></badge-group>
 
 ## Interested In
+
+<alert>
+
+Joscha Bach's position on [computationalist functionalism](https://youtu.be/uXd1quKlkX8) is the most relatable explaination I've come across that matches my understanding of our relationship with the universe.
+
+</alert>
 
 <list :items="interests"></list>
 
 ## Following
-
-<alert>
-
-You can click the links to visit them.
-
-</alert>
 
 <links icon="user" :items="following"></links>
 
@@ -160,7 +161,14 @@ You can click the links to visit them.
 
 ## Education
 
-Bachelors in Technology, Computer Science & Engineering
+Bachelors in Technology.
+Specializing in Computer Science & Engineering.
+
+## Music
+
+Want to listen to what I'm currently grooving to? Here is my playlist.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1zR9P3yCZSKO5WaqssUs9R?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <!-- <p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
  -->
