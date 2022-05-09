@@ -6,6 +6,7 @@ export default theme({
   docs: {
     primaryColor: '#1da1f2'
   },
+  //  colorMode: 'dark',
 /*   content: {
     liveEdit: false
   },

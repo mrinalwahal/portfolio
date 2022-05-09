@@ -17,7 +17,7 @@ position: 6
 
 ## Self-Hosted Papers
 
-1. [Neural Privacy, Personhood and Agency with Brain-To-Brain Interfacing](https://mrinalwahal.com/papers/Neuroethics.pdf) - Preprint pushed on May of 2019 in New Delhi, India
+1. [Neural Privacy, Personhood and Agency with Brain-To-Brain Interfacing](/Neuroethics.pdf) - Preprint pushed on May of 2019 in New Delhi, India
 
 ## Published Articles/Blogs
 
