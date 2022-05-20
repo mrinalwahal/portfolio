@@ -12,3 +12,5 @@ subtitle: Personally maintained glossary of computational school of philosophy, 
 1. Consciousness - simulation of contents inside our attention.
 1. God - self that spans multiple minds.
 1. Culture - shared principles decided upon consensus (or principled negotiation amongst agents of society) to efficiently achieve shared terminal goals.
+1. Attention - Ability to focus on a certain location.
+1. Context - cache storage where you store all the contents you were paying attention to. (This is in turn used to create models. Because some things in our life only make sense in the long term. A temporary storage of certain objects is required to only run a simulation on them.)

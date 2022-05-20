@@ -51,7 +51,7 @@ From May 2021 to February 2022, I worked with [Nhost](https://nhost.io/), as a b
 - Permanently remote team. Globally distributed.
 - Small team of 10 people. Including design and marketing. Rest engineers.
 - Directly reporting to CEO and CTO.
-- 2 week scrums.
+- 2 week sprints.
 - Weekly standup calls every Monday.
 - Tickets on GitHub Issues and JIRA.
 - Communication and coordination over Discord. 
@@ -86,7 +86,7 @@ We ran Oversight for 1.5 years (until Q1 of 2021). Until we fell short on distri
 - Permanently remote team. Nationally distributed in India.
 - Small team of 10 people. Including engineering and sales.
 - Directly coordinating with each other.
-- 2 week scrums.
+- 2 week sprints.
 - Weekly standup calls every Monday.
 - Tickets on GitHub Issues.
 - Communication and coordination over Discord. 
