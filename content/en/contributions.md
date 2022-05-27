@@ -7,14 +7,11 @@ category: work
 position: 3
 ---
 
-## Nhost.io
+1. I still continue to keep an eye on [Nhost CLI's repository](https://github.com/nhost/cli). I continue to open issues, and submit pull requests to fix existing ones.
 
-I still continue to keep an eye on [Nhost CLI's repository](https://github.com/nhost/cli). I continue to open issues, and submit pull requests to fix existing ones.
+1. I also wrote [this HTTP tunnels repository](https://github.com/nhost/tunnels) to expose local Nhost environments to public internet for those users who don't have a static IP.
 
-## Google Summer of Code 2019
-
-Worked with International Neuro-informatics Cordination Facility (INCF), Germany Node.
-Project details are [available here](https://summerofcode.withgoogle.com/archive/2019/projects/6619076489641984).
+1. Worked with International Neuro-informatics Cordination Facility (INCF), Germany Node. Project details are [available here](https://summerofcode.withgoogle.com/archive/2019/projects/6619076489641984).
 
 <alert type="info">
 
