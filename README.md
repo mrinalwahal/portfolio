@@ -6,7 +6,7 @@ It's based on [Nuxt content docs theme](https://content.nuxtjs.org/themes/docs/)
 
 Feel free to fork or clone this repository if you want to deploy your own site. 
 
-**If you choose to use this repository for your own portfolio, do give sponsor me to continue supporting this work.** ❤️ 
+**If you use this repository for your own portfolio, [sponsor me](https://github.com/sponsors/mrinalwahal) to continue supporting this work.** ❤️ 
 🚀
 ## Links
 
