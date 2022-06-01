@@ -11,6 +11,7 @@ stack:
   - REST
   - GraphQL ( Hasura / Apollo )
   - NuxtJS
+  - Postgres
 familarity:
   - Serverless Functions
   - Microservices
