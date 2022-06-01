@@ -27,10 +27,12 @@
           <AppSearchAlgolia v-if="settings.algolia" :options="settings.algolia" :settings="settings" />
           <AppSearch v-else class="hidden lg:block" />
         </div>
+
         <div
           class="lg:w-1/5 flex items-center pl-4 lg:pl-8"
           :class="{ 'justify-between': lastRelease && settings.layout !== 'single', 'justify-end': !lastRelease || settings.layout === 'single' }"
         >
+
           <NuxtLink
             v-if="lastRelease"
             :to="localePath('/releases')"

@@ -45,6 +45,7 @@
           </div>
         </li>
       </ul>
+
       <p v-if="settings.resume || settings.call || settings.blog"
         class="mb-2 text-gray-500 uppercase tracking-wider font-bold text-sm lg:text-xs">
         Links
