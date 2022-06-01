@@ -22,6 +22,7 @@
             <img v-if="logo" :src="logo.dark" class="h-8 max-w-full dark-img" :alt="settings.title" />
           </NuxtLink>
         </div>
+
         <div v-if="settings.layout !== 'single'" class="flex-1 flex justify-start w-4/6">
           <AppSearchAlgolia v-if="settings.algolia" :options="settings.algolia" :settings="settings" />
           <AppSearch v-else class="hidden lg:block" />
