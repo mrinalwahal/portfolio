@@ -1,7 +1,7 @@
 ## Computationalist [Wah.al](https://wah.al) ❤️
 
 - **Primary Stack**: Golang, GraphQL, NuxtJS
-- I run a [newsletter](https://wahal.substack.com) on AGI, Philosophy, Computationalism, Software and Consciousness. Do subscribe!
+- I run a [newsletter](https://wahal.substack.com) on AGI, Philosophy, Computationalism, Software and Consciousness. Do [subscribe](https://wahal.substack.com/subscribe)!
 - If you are in Delhi, let's grab a beer! 🍺
 - My open source work is detailed [here](https://wah.al/contributions).
 
