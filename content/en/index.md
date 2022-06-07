@@ -158,7 +158,8 @@ You can also [subscribe to my newsletter](https://wahal.substack.com) where I wr
 
 </alert>
 
-
+<!-- <iframe src="https://wahal.substack.com/embed" width="670" height="320"></iframe>
+ -->
 ## Following
 
 <links anchor icon="user" :items="following"></links>
