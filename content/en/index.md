@@ -31,9 +31,12 @@ interests:
   - Consciousness
   - Upanishads
 principles:
+  - Don't be religious about tech.
   - Product is more important than individual blocks of code.
   - Not worth the time to go from 98% efficiency to 99%.
   - If you can't explain your product to your grandmother, you don't understand it well enough.
+  - Think in functions. Not equations. They aren't always the same.
+  - Model your mind with predictive synthesis. Not emotional references.
 following:
   - {
     key: My "self" which is a monkey riding an elephant.,
@@ -161,6 +164,11 @@ Joscha Bach's position on [computationalist functionalism](https://youtu.be/uXd1
 You can also [subscribe to my newsletter](https://wahal.substack.com) where I write about all the aforementioned interests.
 
 </alert>
+
+## Operating Principles
+
+<list :items="principles"></list>
+
 
 <!-- <iframe src="https://wahal.substack.com/embed" width="670" height="320"></iframe>
  -->
