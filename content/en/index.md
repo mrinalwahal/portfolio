@@ -30,6 +30,10 @@ interests:
   - What kind of a computer is required to run the universe?
   - Consciousness
   - Upanishads
+principles:
+  - Product is more important than individual blocks of code.
+  - Not worth the time to go from 98% efficiency to 99%.
+  - If you can't explain your product to your grandmother, you don't understand it well enough.
 following:
   - {
     key: My "self" which is a monkey riding an elephant.,

@@ -1,6 +1,6 @@
 ---
 title: Sponsor My Work
-menuTitle: Sponsor My Work
+#menuTitle: Sponsor My Work
 description: Empower me by sponsoring me.
 subtitle: If you think I'm doing valuable work, then sponsor me to get exclusive benefits and empower me to continue.
 position: 8
@@ -23,8 +23,9 @@ Directly sponsor me on GitHub to get exclusive benefits.
 
 ### Blog
 
-You can also take a paid subscription of my [blog](https://wahal.substack.com). It's relatively cheaper and you'll get all my pay-walled newsletters in your inbox. But nothing else. My latest newsletters will directly land in your inbox.
+You can also take a paid subscription of my [blog](https://wahal.substack.com/subscribe). It's relatively cheaper and you'll get all my pay-walled newsletters in your inbox. But nothing else. My latest newsletters will directly land in your inbox.
 
+<!--
 ### One-Time Sponsorship
 
 <alert type="info">
@@ -38,6 +39,8 @@ This is only for Indian residents.
 <alert type="warning">
 Remember that this sponsorship is fundamentally a donation, and I <code>cannot</code> provide you any tax exemption certificates.
 </alert>
+
+-->
 
 <style>
 img {

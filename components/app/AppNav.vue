@@ -46,7 +46,8 @@
         </li>
       </ul>
 
-      <p v-if="settings.resume || settings.call || settings.blog"
+      <div v-if="settings.resume || settings.call || settings.blog || settings.sponsor">
+      <p
         class="mb-2 text-gray-500 uppercase tracking-wider font-bold text-sm lg:text-xs">
         Links
       </p>
@@ -62,11 +63,20 @@
         exact-active-class="text-primary-500 bg-primary-100 hover:text-primary-500 dark:bg-primary-900">
         Resume
       </a>
+
+      <a v-if="settings.sponsor" :href="settings.sponsor" target="_blank"
+        class="px-2 rounded font-medium py-1 hover:text-primary-500 flex items-center"
+        exact-active-class="text-primary-500 bg-primary-100 hover:text-primary-500 dark:bg-primary-900">
+        Sponsor My Work
+      </a>
+
       <a v-if="settings.call" :href="settings.call" target="_blank"
         class="px-2 rounded font-medium py-1 hover:text-primary-500 flex items-center"
         exact-active-class="text-primary-500 bg-primary-100 hover:text-primary-500 dark:bg-primary-900">
         Schedule Call
       </a>
+
+      </div>
 
     </div>
   </aside>
