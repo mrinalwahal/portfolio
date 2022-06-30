@@ -13,14 +13,13 @@ stack:
   - NuxtJS
   - Postgres
 familarity:
-  - Serverless Functions
+  - Serverless
   - Microservices
   - Containerization
   - CI/CD
   - DevOps
   - Javascript
   - Docker
-  - Git (Obviously, duh!)
   - GitHub Actions
   - Vercel
 interests:
