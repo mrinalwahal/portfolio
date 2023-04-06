@@ -24,7 +24,7 @@ topics:
 
 ## Guest Lectures
 
-1. Artificial Intelligence - IIT Madras, Research Park Madras; March 25th, 2022. [Presentation]("https://docs.google.com/presentation/d/1BFTxljxFQzgI94JkO-mnasrfpHRP4pOvcZ12vKkublg/edit?usp=sharing") [Resources](https://gitlab.com/Wahal/deep-learning)
+1. Artificial Intelligence - IIT Madras, Research Park Madras; March 25th, 2022. [Presentation](https://docs.google.com/presentation/d/1BFTxljxFQzgI94JkO-mnasrfpHRP4pOvcZ12vKkublg/edit?usp=sharing) [Resources](https://gitlab.com/Wahal/deep-learning)
 1. Ethical Hacking - IIT Madras, Research Park Madras; May 14th, 2022. [Download Notes](https://gitlab.com/Wahal/ethical-hacking)
 1. Machine Learning - IIT Madras Research Park, Madras; May 15th, 2022. [Download Notes](https://gitlab.com/Wahal/deep-learning)
 1. Ethical Hacking - IIT Madras, Research Park Madras; September 15th, 2019. [Download Notes](https://gitlab.com/Wahal/ethical-hacking)
