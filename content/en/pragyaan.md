@@ -14,6 +14,12 @@ stack:
     - Razorpay (Payments)
 ---
 
+<alert type="danger">
+
+This project is now officially shut down and no longer available for use.
+
+</alert>
+
 I often deliver guest lectures at colleges like IIT Madras and Anna University, Chennai, on topics like Artificial Intelligence and Security Engineering.
 And my organisers often used to complain about how the platforms that they use for event management and ticketing, like BookMyShow, charge as high as 25% commission and take weeks to disburse payments.
 
