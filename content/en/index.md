@@ -1,5 +1,5 @@
 ---
-title: Wahal
+title: Aakash Kumar
 menuTitle: Profile
 description: Software Engineering & Philosophy. Golang. Computation. AGI.
 subtitle: Software Engineering. Computational Universe. Artificial General Intelligence.
