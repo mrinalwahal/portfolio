@@ -1,7 +1,7 @@
 ---
-title: Pragyaan
+title: pragyaan.co
 menuTitle: Pragyaan
-badge: Pragyaan.co
+badge: disbanded
 category: Projects
 description: Event management for educational events, workshops, webinars, training sessions and more.
 subtitle: Started as a side project. Event management for educational events, workshops, webinars, training sessions and more.
