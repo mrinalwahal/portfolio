@@ -8,7 +8,7 @@
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
-"dependencies": {
+  "dependencies": {
     "@nuxt/content-theme-docs": "^0.11.0",
     "nuxt": "^2.15.8"
   },
