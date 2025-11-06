@@ -24,92 +24,9 @@ familarity:
   - Vercel
 interests:
   - Computational Universe
-  - First Principles Thinking
+  - Capitalism & Free Markets
   - Artificial General Intelligence
-  - What kind of a computer is required to run the universe?
-  - Consciousness
-  - Upanishads
-principles:
-  - Don't be religious about tech.
-  - Product is more important than individual blocks of code.
-  - Not worth the time to go from 98% efficiency to 99%.
-  - If you can't explain your product to your grandmother, you don't understand it well enough.
-  - Think in functions. Not equations. They aren't always the same.
-  - Model your mind with predictive synthesis. Not emotional references.
-following:
-  - {
-    key: My "self" which is a monkey riding an elephant.,
-  }
-  - {
-    key: Joscha Bach,
-    value: https://www.youtube.com/c/JoschaBach
-  }
-  - {
-    key: Lex Fridman,
-    value: https://www.youtube.com/c/lexfridman
-  }
-  - {
-    key: Swami Sarvapriyananda,
-    value: https://www.youtube.com/watch?v=eGKFTUuJppU&t=2s
-  }
-  - {
-    key: Stephen Wolfram,
-    value: https://www.youtube.com/results?search_query=Stephen+Wolfram
-  }
-  - {
-    key: Balaji Srinivasan,
-    value: https://archive.balajis.com/
-  }
-
-readings:
-  - {
-    key: The Order of Time - Carlo Rovelli,
-    value: https://www.amazon.in/Order-Time-Carlo-Rovelli/dp/073521610X
-  }
-  - {
-    key: Phantoms in the Brain - V.S. Ramachandran,
-    value: https://www.amazon.in/Phantoms-Brain-Human-Nature-Architecture/dp/0007253893
-  }
-  - {
-    key: "Godel, Escher, Bach - An Eternal Golden Braid - Douglas R. Hofstadter",
-    value: https://www.amazon.in/dp/0465026567
-  }
-  - {
-    key: Maandukya Upanishad - 800 BC.,
-    value: https://www.amazon.in/dp/8175976640
-  }
-  - {
-    key: Aitareya Upanishad - 800 BC,
-    value: https://www.amazon.in/dp/8175976691/ref=cm_sw_r_tw_dp_4GE01858WY8GJND1ZEJ6
-  }
-  - {
-    key: Kathopanishad Upanishad - 800 BC,
-    value: https://www.amazon.in/dp/8175976624/ref=cm_sw_r_tw_dp_FJZKP5TGB8HMRX4TZXNB?_encoding=UTF8&psc=1
-  }
-  - {
-    key: Arthshashtra - Kautilya/Chanakya,
-    value: https://www.amazon.in/dp/0140446036/ref=cm_sw_r_tw_dp_dl_5B9VN8DXTY82GHWD4N9Z
-  }
-  - {
-    key: Chanakya Neeti - Kautilya/Chanakya,
-    value: https://www.amazon.in/dp/8128400487
-  }
-  - {
-    key: Meditations - Marcus Aurelius,
-    value: https://www.amazon.in/dp/8175994754
-  }
-  - {
-    key: The Bhagavat Gita - Sage Vyasa,
-    value: https://www.amazon.in/dp/9384454117/ref=cm_sw_r_tw_dp_YG55PBGX338MRAABNYX5
-  }
-  - {
-    key: Fundamental Theory of Physics - Stephen Wolfram,
-    value:  https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
-  }
-  - {
-    key: Lambda Calculus for Absolute Dummies - Joscha Bach,
-    value: http://bach.ai/lambda-calculus-test-doc
-  }
+  - Human Perception & Consciousness
 
 ---
 
@@ -163,21 +80,6 @@ Joscha Bach's position on [computationalist functionalism](https://youtu.be/uXd1
 You can also [subscribe to my newsletter](https://wahal.substack.com) where I write about all the aforementioned interests.
 
 </alert>
-
-## Operating Principles
-
-<list :items="principles"></list>
-
-
-<!-- <iframe src="https://wahal.substack.com/embed" width="670" height="320"></iframe>
- -->
-## Following
-
-<links anchor icon="user" :items="following"></links>
-
-## Readings
-
-<links anchor icon="book-open" :items="readings"></links>
 
 ## Education
 
