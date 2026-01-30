@@ -9,6 +9,14 @@ position: 9
 
 ## Books
 
+### 2026
+
+1. [The Weirdest People in the World](https://amzn.in/d/e0jMdz4) by Joseph Henrich - If you liked Seeing Like a State, you can give this a shot as well. It delves into how Western, Educated, Industrialized, Rich, and Democratic (WEIRD) societies have shaped human psychology and behavior in unique ways.
+
+1. [Algorithms to Live By](https://amzn.in/d/fK0f1b4) by Brian Christian and Tom Griffiths - A fascinating exploration of how computer algorithms can be applied to human decision-making and everyday life.
+
+### 2025
+
 1. [Capitalism and Freedom](https://amzn.in/d/eu4f7ui) by Milton Friedman - My favorite book on economics and freedom. A must-read for anyone interested in understanding the relationship between economic freedom and political freedom.
 
 1. [Free To Choose](https://amzn.in/d/bD1XjeT) by Milton and Rose Friedman - A great follow-up to "Capitalism and Freedom," this book delves deeper into the principles of free-market economics and individual liberty. Should definitely read it if you enjoyed "Capitalism and Freedom."
@@ -17,7 +25,7 @@ position: 9
 
 1. [In Service of the Republic](https://amzn.in/d/9mvYnxB) by Vijay Kelkar and Ajay Shah - A comprehensive overview of the Indian economy and policy-making. It provides valuable insights into the challenges and opportunities faced by India.
 
-1. [What Went Wrong With Capitalism](https://amzn.in/d/0V4OOtF) by Ruchir Sharma - The first book I read that taught me how monetary policies work and how governments print money. It beautifully explains how excessive money printing and excessive regulations lead to inflation and economic inequality.
+1. [Sixteen Stormy Days](https://amzn.in/d/9NEqsxz) by Tripurdaman Singh - 
 
 1. [The Changing World Order](https://amzn.in/d/1YRN8g8) by Ray Dalio - I found the book longer than necessary, but it has some great insights on economic cycles and the shifting balance of global power. I would probably hesitate to read another book by Dalio, but this one was worth it as a one-time read.
 
@@ -31,13 +39,17 @@ position: 9
 
 1. [Behold the Leviathan: The Unusual Rise of Modern India](https://amzn.in/d/0pTYWWc) by Saurabh Mukherjea and Nandita Rajhansa - This book can be avoided. It was a mediocre read that mostly mentions the rise of digital payments and e-commerce in India without providing much depth or new insights.
 
+### 2024
+
+1. [What Went Wrong With Capitalism](https://amzn.in/d/0V4OOtF) by Ruchir Sharma - The first book I read that taught me how monetary policies work and how governments print money. It beautifully explains how excessive money printing and excessive regulations lead to inflation and economic inequality.
+
+### Older
+
 1. [Phantoms in the Brain: Human Nature and the Architecture of the Mind](https://amzn.in/d/cHgpxDi) by V.S. Ramachandran - A fascinating exploration of the phantom limb phenomenon and what it reveals about the brain's functioning. Ramachandran's storytelling and experiential examples make this book very engaging.
 
 1. [Kautilya's Arthashastra](https://amzn.in/d/1OaHSN0) by Kautilya/Chanakya - An ancient Indian treatise on statecraft, economic policy, and military strategy. While the ideas may have been relevant in its time, many concepts are outdated today. I would call this a one-time read for historical interest.
 
 1. [Mandukya Upanishad](https://amzn.in/d/1ieJBtf) - By far the best Upanishad I've read. It provides deep insights into the nature of reality and consciousness in a concise manner. A must-read for anyone interested in Indian philosophy.
-
-1. [Algorithms to Live By](https://amzn.in/d/fK0f1b4) by Brian Christian and Tom Griffiths - A fascinating exploration of how computer algorithms can be applied to human decision-making and everyday life.
 
 ## Papers
 
